@@ -88,5 +88,5 @@ ESC | Quick respawn
 W | Auto skin rotator
 Q | Die/ Quit to menu
 
-# Authors
+# Authors 
 **http://slitherio.org/**
