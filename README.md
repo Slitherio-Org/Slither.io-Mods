@@ -90,3 +90,7 @@ Q | Die/ Quit to menu
 
 # Authors 
 **http://slitherio.org/**
+
+# LIVE UPDATE! 
+- Added 2 more clan tags NBK TYT
+- 
