@@ -91,6 +91,9 @@ Q | Die/ Quit to menu
 # Authors 
 **http://slitherio.org/**
 
-# LIVE UPDATE! 
+#  
+
+### LIVE UPDATE!
 - Added 2 more clan tags NBK TYT
-- 
+- Updated Polish language thanks for translating Max Keiser 
+- Added Live Update on main menu
