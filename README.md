@@ -99,5 +99,4 @@ Q | Die/ Quit to menu
 - Added Live Update on main menu
 - Added Greek & Arabic language
 - All zoom issues fixed.
-- Added [AG] Clan tag on popular clan tag list.
-- 
+- Added AG Clan tag on popular clan tag list.
