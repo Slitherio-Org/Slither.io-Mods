@@ -97,3 +97,7 @@ Q | Die/ Quit to menu
 - Added 2 more clan tags NBK TYT
 - Updated Polish language thanks for translating Max Keiser 
 - Added Live Update on main menu
+- Added Greek & Arabic language
+- All zoom issues fixed.
+- Added [AG] Clan tag on popular clan tag list.
+- 
