@@ -100,3 +100,7 @@ Q | Die/ Quit to menu
 - Added Greek & Arabic language
 - All zoom issues fixed.
 - Added AG Clan tag on popular clan tag list.
+- Chinese language added. thanks to Xianran
+- [SB] clan tag added, thanks to SlicedBrain.com
+- [AG] clan tag added, thanks to ArcadeGo.com
+- All issues fixed. Please clear web browser's cache, cookies and try again.
