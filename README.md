@@ -120,3 +120,4 @@ Q | Die/ Quit to menu
 - [SB] clan tag added, thanks to SlicedBrain.com
 - [AG] clan tag added, thanks to ArcadeGo.com
 - All issues fixed. Please clear web browser's cache, cookies and try again.
+- Itallian language added, thanks so Henry Qualcosa
