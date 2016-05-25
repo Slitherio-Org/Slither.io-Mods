@@ -65,6 +65,22 @@
 
 As always, you can contribute and ask for new features by shooting us a message. You can easily contact us using the in-game “Contact” tab, too! By the way, before you ask any questions, view the in-game “help” tab and watch the amazing video guide. This will solve most – if not all – your questions.
 
+## Tutoral videos:
+How to add logo and customize your mod?
+https://youtu.be/jkFjDbFJF8I
+
+How to Create Party?
+https://youtu.be/Uoc6B3slhxs
+
+How to Join Party?
+https://youtu.be/4mrylvXBa5I
+
+How to change background?
+https://youtu.be/KTUL7SLsNAc
+
+How to install and use the slither mod? 
+https://youtu.be/a7CEZotujo4
+
 ## Text tutorial
 If you are on chrome, download the [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) extension.
 
