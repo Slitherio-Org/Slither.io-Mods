@@ -78,7 +78,7 @@ https://youtu.be/4mrylvXBa5I
 How to change background?
 https://youtu.be/KTUL7SLsNAc
 
-How to install and use the slither mod? 
+How to install and use the slither.io mods? 
 https://youtu.be/a7CEZotujo4
 
 ## Text tutorial
