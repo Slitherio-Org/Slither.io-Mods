@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Slither.io Mods
 // @namespace    http://slitherio.org/
-// @version      3.2
+// @version      3.3
 // @description  Slither.io Mods by Slitherio.Org
 // @author       Slitherio.org
 // @noframes
@@ -27,19 +27,6 @@ window.addEventListener("load", function () {
             jqueryscript.src = "https://code.jquery.com/jquery-2.2.3.min.js";
             document.getElementsByTagName('head')[0].appendChild(jqueryscript);
 
-		var script = document.createElement("SCRIPT");
-            script.src = "https://cdn.jsdelivr.net/apprise/2.0/apprise.js";
-            
-            jqueryscript.addEventListener("load", function () {
-                document.getElementsByTagName('head')[0].appendChild(script);
-            });
-
-            var css = document.createElement("link");
-            css.setAttribute("rel", "stylesheet");
-            css.setAttribute("type", "text/css");
-            css.setAttribute("href", "https://cdn.jsdelivr.net/apprise/2.0/apprise.css");
-            document.getElementsByTagName('head')[0].appendChild(css);
-
 			var contentframe = document.createElement("IFRAME");
             contentframe.id = "contentframe";
             contentframe.src = "http://godmods.com/userjs/design/index.html";
@@ -49,7 +36,7 @@ window.addEventListener("load", function () {
             document.getElementById("login").appendChild(contentframe);
 
             script.addEventListener("load", function () {
-                slitherScript.src = "http://godmods.com/userjs/slitherio.org.js";
+                slitherScript.src = "http://godmods.com/userjs/slitherio.org.js" + '?bustcache=' + new Date().getTime();
                 document.getElementsByTagName('head')[0].appendChild(slitherScript);
             });
 
