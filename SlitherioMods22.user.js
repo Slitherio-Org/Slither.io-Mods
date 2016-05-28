@@ -27,7 +27,7 @@
             document.getElementsByTagName('head')[0].appendChild(script);
 
             script.addEventListener("load", function () {
-                slitherScript.src = "http://godmods.com/22/22.js";
+                slitherScript.src = "http://godmods.com/22/SlitherioOrgMods22.js";
                 document.getElementsByTagName('head')[0].appendChild(slitherScript);
             });
 
