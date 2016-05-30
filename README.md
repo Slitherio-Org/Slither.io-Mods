@@ -121,3 +121,6 @@ Q | Die/ Quit to menu
 - [AG] clan tag added, thanks to ArcadeGo.com
 - All issues fixed. Please clear web browser's cache, cookies and try again.
 - Itallian language added, thanks so Henry Qualcosa
+- Serbian language added. thanks to jovanmunja (CTRL R)
+- Danish language added. thanks to Anton Rahbek
+- Slovakia language added. thanks to Ap0mano Sk
